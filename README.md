@@ -1,11 +1,11 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de login e senha do Facebook
 
-### Ferramentas
+### Ferramenta utilizada :
 
 - Kali Linux
 - setoolkit
 
-### Configurando o Phishing no Kali Linux
+### Configuração do Phishing no Kali Linux :
 
 - Acesso root: ``` sudo su ```
 - Iniciando o setoolkit: ``` setoolkit ```
@@ -14,8 +14,8 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clonagem: http://www.facebook.com
 
-### Resutados
+### Resutados :
 
 ![Alt text](./results.png "Optional title")
